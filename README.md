@@ -17,5 +17,4 @@ Here are some masks I as looking at a few weeks before I actually started coding
 
 ## Initial Drawings
 Here are two initial drawings I did. The one on the left is the first one I did. It's most similar to the Noh masks I picked out and is supposed to represent how I feel like rot and mold. The second one is a mask of bugs crawling all over my face, as a representation of my anxiety. The current project is most similar to the latter (see the Bugs class and letsMakeBugs function in the code) but I changed the bugs to the image distortion it is now. 
-![](/Media/Drawings/moss.jpg)
-![](/Media/Drawings/bugs.jpg)
+![](/Media/Drawings/both.png)
