@@ -11,7 +11,7 @@ I have no idea what I want to do or who I want to be in the future and trying to
 
 
 ## Screenshots
-![](/Media/screens.png)
+![](/Media/combo.png)
 
 
 ## Some Inspriation Imagery
