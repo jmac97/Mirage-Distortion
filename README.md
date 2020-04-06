@@ -1,7 +1,10 @@
 # Mirage-Distortion
 An Almost Identity 
 
-![](/Media/screen-record.gif)
+<p align="center">
+  <img width="600" height="338" src="https://github.com/jmac97/Mirage-Distortion/blob/master/Media/screen-record.gif?raw=true">
+</p>
+
 
 ## Introduction
 I have no idea what I want to do or who I want to be in the future and trying to talk or write about it only frustrates me even more since I end up talking in circles or contradicting myself, so I will not be discussing that any further to save me from embarrassment. 
