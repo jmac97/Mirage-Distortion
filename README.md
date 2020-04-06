@@ -10,7 +10,6 @@ An Almost Identity
 I have no idea what I want to do or who I want to be in the future and trying to talk or write about it only frustrates me even more since I end up talking in circles or contradicting myself, so I will not be discussing that any further to save me from embarrassment. 
 
 
-## Screenshots
 ![](/Media/combo.png)
 
 
